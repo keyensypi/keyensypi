@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @keyensypi
-- 👀 I’m interested in Software Testing
+- 👀 I’m interested in Software Testing / Software Engineering
 - 🌱 I’m currently learning Software Testing, Functional / Non Functional Testing, Test Case Analysis, Test Execution and Test Design
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
